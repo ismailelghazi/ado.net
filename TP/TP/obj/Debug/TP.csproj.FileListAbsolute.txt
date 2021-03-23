@@ -1,0 +1,20 @@
+C:\Users\eloua\source\repos\TP\TP\bin\Debug\TP.exe.config
+C:\Users\eloua\source\repos\TP\TP\bin\Debug\TP.exe
+C:\Users\eloua\source\repos\TP\TP\bin\Debug\TP.pdb
+C:\Users\eloua\source\repos\TP\TP\obj\Debug\TP.csprojAssemblyReference.cache
+C:\Users\eloua\source\repos\TP\TP\obj\Debug\TP.Form1.resources
+C:\Users\eloua\source\repos\TP\TP\obj\Debug\TP.Properties.Resources.resources
+C:\Users\eloua\source\repos\TP\TP\obj\Debug\TP.csproj.GenerateResource.cache
+C:\Users\eloua\source\repos\TP\TP\obj\Debug\TP.csproj.CoreCompileInputs.cache
+C:\Users\eloua\source\repos\TP\TP\obj\Debug\TP.exe
+C:\Users\eloua\source\repos\TP\TP\obj\Debug\TP.pdb
+C:\Users\Ismai\Desktop\hamza test zaml\TP\TP\bin\Debug\TP.exe.config
+C:\Users\Ismai\Desktop\hamza test zaml\TP\TP\bin\Debug\TP.exe
+C:\Users\Ismai\Desktop\hamza test zaml\TP\TP\bin\Debug\TP.pdb
+C:\Users\Ismai\Desktop\hamza test zaml\TP\TP\obj\Debug\TP.csprojAssemblyReference.cache
+C:\Users\Ismai\Desktop\hamza test zaml\TP\TP\obj\Debug\TP.Form1.resources
+C:\Users\Ismai\Desktop\hamza test zaml\TP\TP\obj\Debug\TP.Properties.Resources.resources
+C:\Users\Ismai\Desktop\hamza test zaml\TP\TP\obj\Debug\TP.csproj.GenerateResource.cache
+C:\Users\Ismai\Desktop\hamza test zaml\TP\TP\obj\Debug\TP.csproj.CoreCompileInputs.cache
+C:\Users\Ismai\Desktop\hamza test zaml\TP\TP\obj\Debug\TP.exe
+C:\Users\Ismai\Desktop\hamza test zaml\TP\TP\obj\Debug\TP.pdb
